@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OmkarBhede/crypto_tracker.git/static/css/main.72f22867.chunk.css",
+    "main.js": "/OmkarBhede/crypto_tracker.git/static/js/main.aeac157c.chunk.js",
+    "main.js.map": "/OmkarBhede/crypto_tracker.git/static/js/main.aeac157c.chunk.js.map",
+    "runtime-main.js": "/OmkarBhede/crypto_tracker.git/static/js/runtime-main.6e741829.js",
+    "runtime-main.js.map": "/OmkarBhede/crypto_tracker.git/static/js/runtime-main.6e741829.js.map",
+    "static/js/2.4705cd32.chunk.js": "/OmkarBhede/crypto_tracker.git/static/js/2.4705cd32.chunk.js",
+    "static/js/2.4705cd32.chunk.js.map": "/OmkarBhede/crypto_tracker.git/static/js/2.4705cd32.chunk.js.map",
+    "static/js/3.2d08ae47.chunk.js": "/OmkarBhede/crypto_tracker.git/static/js/3.2d08ae47.chunk.js",
+    "static/js/3.2d08ae47.chunk.js.map": "/OmkarBhede/crypto_tracker.git/static/js/3.2d08ae47.chunk.js.map",
+    "index.html": "/OmkarBhede/crypto_tracker.git/index.html",
+    "static/css/main.72f22867.chunk.css.map": "/OmkarBhede/crypto_tracker.git/static/css/main.72f22867.chunk.css.map",
+    "static/js/2.4705cd32.chunk.js.LICENSE.txt": "/OmkarBhede/crypto_tracker.git/static/js/2.4705cd32.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/OmkarBhede/crypto_tracker.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e741829.js",
+    "static/js/2.4705cd32.chunk.js",
+    "static/css/main.72f22867.chunk.css",
+    "static/js/main.aeac157c.chunk.js"
+  ]
+}
